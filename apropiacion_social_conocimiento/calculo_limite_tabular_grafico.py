@@ -34,9 +34,15 @@ def plot_tendencia_funcion(c = 2):
     #plt.arrow()
 
 def grafica_funcion_en_una_vecindad(f, dominio = [10,95]):
+    import numpy as np
     import matplotlib.pyplot as plt
-
-    
+    from sympy import lambdify, var
+    x = var('x')
+    X = np.linspace(dominio[0], dominio[1], 100)
+    Y = f(X)
+    plt.plot(X,Y)
+    plt.grid(alpha = 0.4)
+    plt.savefig('Grafico_de_funcion.png')
     
 if __name__=='__main__':
     pass 
