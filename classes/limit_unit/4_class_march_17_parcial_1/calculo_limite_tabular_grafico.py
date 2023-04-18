@@ -18,14 +18,14 @@ def tabla_derecha(f, c = 0):
     tabla_der = pd.DataFrame({'x':X, 'y':Y})
     return tabla_der
 
-def grafico_de_dispersion(tabla):
+def grafico_de_dispersion():
     import pandas as pd 
     import plotly.express as px
     #fig = px.line(tabla,x = tabla.keys()[0], y = tabla.keys()[1], title=r'Relación entre $x$ y $y$')
     fig = px.scatter(tabla,x = tabla.keys()[0], y = tabla.keys()[1], title=r'Relación entre $x$ y $y$')
     fig.show()
-
-
+    
+    
 def trazar_flecha(punto_inicial = [0,0], delta_x = 3, delta_y = 4, **opcions):
     return plt.arrow()
 
