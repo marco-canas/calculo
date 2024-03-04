@@ -2,13 +2,13 @@ digraph {
 	A [label="Vectores en el plano"]
 	B [label="Dirección"]
 	C [label=Magnitud]
-	D [label=""]
-	E [label=""]
-	F [label="Diagramas de Flujo"]
-	G [label="Micro:Bit"]
-	H [label=MakeCode]
-	I [label=Flowgorithm]
-	J [label="Conceptos Matemáticos"]
+	D [label="Segmento Orientado"]
+	E [label="Componentes del vector"]
+	F [label="Pares ordenados"]
+	G [label="Punto en el plano"]
+	H [label="Notación"]
+	I [label="El plano R2"]
+	J [label=Flecha]
 	A -> B
 	A -> C
 	C -> D
