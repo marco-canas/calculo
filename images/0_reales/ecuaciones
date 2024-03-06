@@ -1,0 +1,21 @@
+digraph {
+	A [label="Ecuación de variable real"]
+	B [label="Ecuación lineal"]
+	C [label="Ecuación cuadrática"]
+	D [label="Resolver una ecuación"]
+	E [label="Raíz de una ecuación"]
+	F [label=""]
+	G [label=""]
+	H [label=""]
+	I [label=""]
+	J [label=""]
+	A -> B
+	A -> C
+	C -> D
+	D -> J
+	E -> F
+	F -> G
+	G -> H
+	H -> I
+	I -> J
+}
