@@ -3,11 +3,11 @@ digraph {
 	B [label=Derivada]
 	C [label="Integración Indefinida"]
 	D [label="La primitiva de una derivada"]
-	E [label=""]
+	E [label="Constante de integración"]
 	F [label=""]
-	G [label="Micro:Bit"]
-	H [label=MakeCode]
-	I [label=Flowgorithm]
+	G [label=""]
+	H [label=""]
+	I [label=""]
 	J [label=""]
 	A -> B
 	B -> C
@@ -15,7 +15,6 @@ digraph {
 	D -> J
 	E -> F
 	F -> G
-	F -> H
 	G -> H
 	H -> I
 	I -> J
