@@ -1,18 +1,18 @@
 digraph {
-	A [label=Python]
-	B [label="Tipos de editores de código"]
-	C [label="Tipos de datos"]
-	D [label="Datos tipo str"]
-	E [label="Datos tipo int"]
-	F [label="Datos tipo float"]
-	G [label="Datos tipo booleano"]
+	A [label=""]
+	B [label=""]
+	C [label=""]
+	D [label=""]
+	E [label=""]
+	F [label=""]
+	G [label=""]
 	H [label=""]
 	I [label=""]
 	J [label=""]
 	A -> B
 	A -> C
 	C -> D
-	D -> E
+	D -> J
 	E -> F
 	F -> G
 	G -> H
