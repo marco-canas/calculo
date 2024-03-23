@@ -1,6 +1,6 @@
 digraph {
-	A [label="Lógica matemática"]
-	B [label="Lenguaje para comunicación científica"]
+	A [label="Funciones de Python con la sentencia def"]
+	B [label=""]
 	C [label=""]
 	D [label=""]
 	E [label=""]
