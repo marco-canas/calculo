@@ -1,21 +1,6 @@
 digraph {
-	A [label="Funciones de Python con la sentencia def"]
-	B [label=""]
+	A [label="Números reales"]
+	B [label="Números racionales"]
 	C [label=""]
-	D [label=""]
-	E [label=""]
-	F [label=""]
-	G [label=""]
-	H [label=""]
-	I [label=""]
-	J [label=""]
 	A -> B
-	A -> C
-	C -> D
-	D -> J
-	E -> F
-	F -> G
-	G -> H
-	H -> I
-	I -> J
 }
