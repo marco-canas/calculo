@@ -2,20 +2,17 @@ digraph {
 	A [label="Clasificación de los triángulos"]
 	B [label="Criterio de la medida de los ángulos"]
 	C [label="Criterio de la medida de los lados"]
-	D [label=""]
-	E [label=""]
-	F [label=""]
-	G [label=""]
+	D [label="Trángulos Equiángulo"]
+	E [label="Trángulos Acutángulo"]
+	F [label="Trángulos rectángulos"]
+	G [label="Trángulos obtusángulos"]
 	H [label=""]
 	I [label=""]
 	J [label=""]
 	A -> B
 	A -> C
-	C -> D
-	D -> J
-	E -> F
-	F -> G
-	G -> H
-	H -> I
-	I -> J
+	B -> D
+	B -> E
+	B -> F
+	B -> G
 }
