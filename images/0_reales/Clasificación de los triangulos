@@ -1,0 +1,21 @@
+digraph {
+	A [label="Clasificación de los triangulos"]
+	B [label="Criterio de la medida de los ángulos"]
+	C [label="Criterio de la medida de los lados"]
+	D [label=""]
+	E [label=""]
+	F [label=""]
+	G [label=""]
+	H [label=""]
+	I [label=""]
+	J [label=""]
+	A -> B
+	A -> C
+	C -> D
+	D -> J
+	E -> F
+	F -> G
+	G -> H
+	H -> I
+	I -> J
+}
