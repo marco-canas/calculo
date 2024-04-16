@@ -1,22 +1,12 @@
 digraph {
-	A [label=Antiderivada]
-	B [label="Ecuaciones diferenciales"]
-	C [label=Derivada]
-	D [label="Integración indefinida"]
-	E [label=""]
-	F [label=""]
-	G [label=""]
-	H [label=""]
-	I [label=""]
-	J [label=""]
+	A [label="Posición x(t)"]
+	B [label="Velocidad v(t)"]
+	C [label="aceleración a(t)"]
+	D [label="Posición"]
+	E [label=Velocidad]
+	F [label=Aceleracion]
 	A -> B
 	B -> C
-	C -> D
-	D -> J
-	E -> F
-	F -> G
-	F -> H
-	G -> H
-	H -> I
-	I -> J
+	F -> E
+	E -> D
 }
