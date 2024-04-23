@@ -1,0 +1,13 @@
+digraph {
+	A [label="Método de cambio de variable"]
+	B [label="Ecuación lineal"]
+	C [label="Ecuación cuadrática"]
+	D [label="Ecuaciones con raíces"]
+	E [label=""]
+	F [label=""]
+	A -> B
+	A -> C
+	A -> D
+	D -> J
+	E -> F
+}
