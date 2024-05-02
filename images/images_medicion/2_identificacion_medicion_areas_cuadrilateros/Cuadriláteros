@@ -1,0 +1,14 @@
+digraph {
+	A [label="Cuadriláteros"]
+	B [label=Trapecios]
+	C [label=Paralelogramos]
+	D [label="Rectángulos"]
+	E [label=Rombos]
+	F [label=Cuadrados]
+	A -> B
+	B -> C
+	C -> D
+	C -> E
+	D -> F
+	E -> F
+}
