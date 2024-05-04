@@ -4,9 +4,9 @@ digraph {
 	C [label=tendencia]
 	D [label=Acercamiento]
 	E [label="Límite de una función en un punto"]
-	F [label=""]
-	G [label=""]
-	H [label=""]
+	F [label="Forma tabular de establecer un límite"]
+	G [label="Forma grafica para establecer un límite con plotly"]
+	H [label="Forma anallítica de establecer una límite de una función"]
 	I [label=""]
 	J [label=""]
 	A -> B
