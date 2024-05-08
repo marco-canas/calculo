@@ -1,9 +1,0 @@
-digraph {
-	Cuadrilateros [label="Cuadriláteros" shape=oval]
-	Trapecios [label=Trapecios shape=oval]
-	Paralelogramos [label=Paralelogramos shape=oval]
-	Cuadrilateros -> Trapecios
-	Trapecios -> Paralelogramos
-	size="10,10"
-	node [fillcolor=lightblue shape=oval style=filled]
-}
