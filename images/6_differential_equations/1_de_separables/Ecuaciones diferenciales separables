@@ -1,7 +1,7 @@
 digraph {
 	A [label="Ecuaciones diferenciales separables"]
 	B [label="Aplicación a la propagación de enfermedades virales"]
-	C [label=""]
+	C [label="La Ecuación diferencial logística"]
 	D [label=""]
 	E [label=""]
 	F [label=""]
