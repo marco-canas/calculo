@@ -1,0 +1,21 @@
+digraph {
+	A [label="Ecuaciones cuadráticas en R"]
+	B [label="Mínimo Común Denominador"]
+	C [label="Mínimo común Múltiplo no nulo de los denominadores"]
+	D [label="Máximo Común Divisor"]
+	E [label=""]
+	F [label=""]
+	G [label=""]
+	H [label=""]
+	I [label=""]
+	J [label=""]
+	A -> B
+	A -> C
+	C -> D
+	D -> J
+	E -> F
+	F -> G
+	G -> H
+	H -> I
+	I -> J
+}
