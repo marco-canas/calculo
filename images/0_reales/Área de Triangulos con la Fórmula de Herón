@@ -1,7 +1,7 @@
 digraph {
 	A [label="Área de Triangulos con la Fórmula de Herón"]
-	B [label="Ecuación lineal"]
-	C [label="Ecuación cuadrática"]
+	B [label=""]
+	C [label=""]
 	D [label=""]
 	E [label=""]
 	F [label=""]
