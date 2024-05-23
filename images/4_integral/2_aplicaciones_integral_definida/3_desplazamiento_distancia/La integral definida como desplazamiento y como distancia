@@ -1,21 +1,9 @@
 digraph {
 	A [label="La integral definida como desplazamiento y como distancia"]
-	B [label=""]
-	C [label=""]
-	D [label=""]
-	E [label=""]
-	F [label=""]
-	G [label=""]
-	H [label=""]
-	I [label=""]
-	J [label=""]
+	B [label="posición"]
+	C [label=desplazamiento]
+	D [label=distancia]
 	A -> B
 	A -> C
-	C -> D
-	D -> J
-	E -> F
-	F -> G
-	G -> H
-	H -> I
-	I -> J
+	A -> D
 }
