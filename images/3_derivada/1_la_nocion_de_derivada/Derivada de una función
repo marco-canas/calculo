@@ -6,8 +6,11 @@ digraph {
 	E [label="Razón de cambio de una función"]
 	F [label="Velocidad promedio"]
 	G [label="Velocidad Instantánea"]
+	H [label="Derivada de una función en un punto"]
 	A -> B
 	A -> C
 	A -> D
 	A -> E
+	H -> G
+	F -> G
 }
