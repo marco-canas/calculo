@@ -1,0 +1,21 @@
+digraph {
+	A [label="Clasificación de los triángulos"]
+	B [label="Criterio de la medida de los ángulos"]
+	C [label="Criterio de la medida de los lados"]
+	D [label="Trángulos Acutángulo"]
+	E [label="Trángulos Equiángulo"]
+	F [label="Trángulos rectángulos"]
+	G [label="Trángulos obtusángulos"]
+	H [label="Triángulos equiláteros"]
+	I [label="Triángulos isósceles"]
+	J [label="Triángulos escalenos"]
+	A -> B
+	A -> C
+	B -> D
+	B -> F
+	B -> G
+	C -> I
+	C -> J
+	D -> E
+	I -> H
+}
