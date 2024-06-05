@@ -1,0 +1,11 @@
+digraph {
+	A [label="Área bajo la curva y área entre curvas"]
+	B [label=""]
+	C [label=""]
+	D [label=""]
+	E [label=""]
+	A -> B
+	A -> C
+	C -> D
+	D -> J
+}
