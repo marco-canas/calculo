@@ -1,0 +1,6 @@
+digraph {
+	A [label="Regla de la cadena"]
+	B [label="Composición de funciones "]
+	C [label=""]
+	A -> B
+}

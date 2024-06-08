@@ -1,5 +1,5 @@
 digraph {
-	A [label="Área bajo la curva y área entre curvas"]
+	A [label="Reglas de derivación"]
 	B [label=""]
 	C [label=""]
 	D [label=""]
