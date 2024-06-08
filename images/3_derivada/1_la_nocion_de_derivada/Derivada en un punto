@@ -1,0 +1,14 @@
+digraph {
+	A [label="Derivada en un punto"]
+	B [label="Pendiente de $f$ en el punto $x = c$"]
+	C [label="Velocidad de cambio 
+ en cualquier punto"]
+	D [label="Tasa de cambio instantánea 
+ en un punto dado del dominio"]
+	E [label="Razón de cambio instantánea 
+ en un punto "]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+}
