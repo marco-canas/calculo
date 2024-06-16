@@ -1,0 +1,8 @@
+digraph {
+	A [label="Áreas entre curvas"]
+	B [label="Área entre funciones lineales"]
+	C [label="Área co  o el semiproducto 
+         de una base elegida y una altura asociada"]
+	A -> B
+	A -> C
+}
