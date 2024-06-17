@@ -1,0 +1,11 @@
+digraph {
+	A [label="Áreas entre curvas"]
+	B [label="Área entre funciones lineales"]
+	C [label="Área como el semiproducto 
+         de una base elegida y una altura asociada"]
+	D [label="Área de un triángulo 
+         con la fórmula de Herón"]
+	A -> B
+	A -> C
+	A -> D
+}
