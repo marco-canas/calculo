@@ -1,0 +1,11 @@
+digraph {
+	A [label="Área entre curvas"]
+	B [label="Funciones lineales"]
+	C [label="Lados del triángulo"]
+	D [label="Vértices del triángulo"]
+	E [label="Descomposición de un triángulo 
+         en dos triángulos acotados por funciones lineales"]
+	F [label=""]
+	A -> B
+	A -> C
+}
