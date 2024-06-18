@@ -1,0 +1,11 @@
+digraph {
+	A [label="Diferenciación implícita"]
+	B [label="Funciones $y = f(x)$"]
+	C [label="Formas de representar funciones a través de ecuaciones"]
+	D [label="y explícitamente definida como función de x"]
+	E [label="y no está explicitamente definida como función de x"]
+	A -> B
+	A -> C
+	C -> D
+	C -> E
+}
