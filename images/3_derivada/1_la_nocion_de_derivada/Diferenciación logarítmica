@@ -5,7 +5,7 @@ digraph {
 	D [label="Regla de la cadena"]
 	E [label="Logaritmo de un cociente"]
 	F [label="Logaritmo de una producto"]
-	G [label="Logarirmo de una potencia"]
+	G [label="Logaritmo de una potencia"]
 	A -> B
 	A -> C
 	C -> D
