@@ -2,20 +2,14 @@ digraph {
 	A [label="Diferenciación logarítmica"]
 	B [label="Propiedades de logaritmo"]
 	C [label="Diferenciación implícita"]
-	D [label=""]
-	E [label=""]
-	F [label=""]
-	G [label=""]
-	H [label=""]
-	I [label=""]
-	J [label=""]
+	D [label="Regla de la cadena"]
+	E [label="Logaritmo de un cociente"]
+	F [label="Logaritmo de una producto"]
+	G [label="Logarirmo de una potencia"]
 	A -> B
 	A -> C
 	C -> D
-	D -> J
-	E -> F
-	F -> G
-	G -> H
-	H -> I
-	I -> J
+	B -> E
+	B -> F
+	B -> G
 }
