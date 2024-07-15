@@ -1,13 +1,11 @@
 digraph {
-	A [label="Cómo dejar de postergar"]
-	B [label=""]
+	A [label=Ecuaciones]
+	B [label="Igualdad de Funciones"]
 	C [label=""]
 	D [label=""]
 	E [label=""]
 	F [label=""]
-	G [label=""]
 	A -> B
 	A -> C
 	C -> D
-	D -> J
 }

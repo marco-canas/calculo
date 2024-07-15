@@ -1,7 +1,0 @@
-digraph {
-	A [label=Derivada]
-	B [label="Derivada por definición"]
-	C [label="Derivada por reglas"]
-	A -> B
-	A -> C
-}
