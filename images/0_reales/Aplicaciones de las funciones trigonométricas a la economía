@@ -1,0 +1,10 @@
+digraph {
+	A [label="Aplicaciones de las funciones trigonométricas a la economía"]
+	B [label=""]
+	C [label=""]
+	D [label=""]
+	E [label=""]
+	A -> B
+	A -> C
+	C -> D
+}
