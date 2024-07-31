@@ -26,16 +26,19 @@ class GraphApp(App):
         func_str = self.input_function.text
         x = np.linspace(-10, 10, 400)
         try:
-            y = eval(func_str)
+            # Sanitizar y verificar la función ingresada
+            safe_dict = {'np': np, 'x': x}
+            y = eval(func_str, {"__builtins__": None}, safe_dict)
             plt.plot(x, y)
             plt.title('Grafica de la función')
             plt.xlabel('x')
             plt.ylabel('y')
             plt.grid(True)
-            plt.savefig('/storage/emulated/0/Download/plot.png')  # Guarda la imagen en una ubicación accesible en Android
+            #plt.savefig('/storage/emulated/0/Download/plot.png')  # Verifica la ruta para Android
+            plt.savefig('/home/marco/Descargas/plot.png')
             plt.clf()
         except Exception as e:
-            self.input_label.text = 'Error en la función ingresada'
+            self.input_label.text = f'Error en la función ingresada: {e}'
 
 if __name__ == '__main__':
     GraphApp().run()
