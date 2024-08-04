@@ -1,0 +1,38 @@
+digraph {
+	A [label="Métodos de clasificación
+ de dengue con SVM"]
+	B [label="Preprocesamiento
+ de Datos"]
+	C [label="Modelos
+ de Clasificación"]
+	D [label="Evaluación
+ de Modelos"]
+	E [label="Recopilación de Datos"]
+	F [label="Conversión
+ a Datos Numéricos"]
+	G [label="Discretización
+ de Datos"]
+	H [label=SVM]
+	I [label="Random Forest"]
+	J [label=KNN]
+	K [label="Decision Tree"]
+	L [label="Validación
+ Cruzada"]
+	M [label="Métricas de
+ Rendimiento"]
+	N [label="Matrices de
+ Confusión"]
+	A -> B
+	A -> C
+	A -> D
+	B -> E
+	B -> F
+	B -> G
+	C -> H
+	C -> I
+	C -> J
+	C -> K
+	D -> L
+	D -> M
+	D -> N
+}
