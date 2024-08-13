@@ -1,9 +1,15 @@
 digraph {
 	A [label="La integral definida como desplazamiento y como distancia"]
-	B [label="posición"]
-	C [label=desplazamiento]
-	D [label=distancia]
+	B [label="Posición"]
+	C [label=Desplazamiento]
+	D [label=Distancia]
+	E [label=Tiempo]
+	F [label=Trayectoria]
+	G [label=Velocidad]
 	A -> B
 	A -> C
 	A -> D
+	A -> E
+	A -> F
+	A -> G
 }
