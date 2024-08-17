@@ -1,0 +1,11 @@
+digraph {
+	A [label="Resolver Ecuaciones solo observando"]
+	B [label="Igualdad de Funciones"]
+	C [label=""]
+	D [label=""]
+	E [label=""]
+	F [label=""]
+	A -> B
+	A -> C
+	C -> D
+}
