@@ -1,0 +1,20 @@
+digraph {
+	A [label="La integral definida
+ como desplazamiento y 
+ como distancia"]
+	B [label="Posición"]
+	C [label=Desplazamiento]
+	D [label=Distancia]
+	E [label=Tiempo]
+	F [label=Trayectoria]
+	G [label=Velocidad]
+	H [label="Valor absoluto
+ de la velocidad"]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	A -> F
+	A -> G
+	D -> H
+}
