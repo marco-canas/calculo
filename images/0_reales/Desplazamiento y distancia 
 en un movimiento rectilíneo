@@ -1,0 +1,22 @@
+digraph {
+	A [label="Desplazamiento y distancia 
+ en un movimiento rectilíneo"]
+	B [label="Integral definida"]
+	C [label=""]
+	D [label=""]
+	E [label=""]
+	F [label=""]
+	G [label=""]
+	H [label=""]
+	I [label=""]
+	J [label=""]
+	A -> B
+	A -> C
+	C -> D
+	D -> J
+	E -> F
+	F -> G
+	G -> H
+	H -> I
+	I -> J
+}
