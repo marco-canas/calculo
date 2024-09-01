@@ -1,7 +1,7 @@
 digraph {
 	A [label="Resolver Ecuaciones solo observando"]
 	B [label="Igualdad de Funciones"]
-	C [label=""]
+	C [label="La función diferencia de los lados"]
 	D [label=""]
 	E [label=""]
 	F [label=""]
