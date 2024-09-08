@@ -1,11 +1,15 @@
 digraph {
 	A [label="Resolver Ecuaciones solo observando"]
 	B [label="Igualdad de Funciones"]
-	C [label="La función diferencia de los lados"]
-	D [label=""]
-	E [label=""]
-	F [label=""]
+	C [label="Función Diferencia de los Lados"]
+	D [label="Raíces de la Función Diferencia"]
+	E [label="Soluciones para la Ecuación Original"]
+	F [label="Verificación de Soluciones"]
+	G [label="Aplicaciones en Física y Economía"]
 	A -> B
 	A -> C
-	C -> D
+	C -> D [label="Calcular Raíces"]
+	D -> E [label="Raíces son Soluciones"]
+	E -> F [label="Comprobación"]
+	F -> G [label="Aplicaciones Prácticas"]
 }
