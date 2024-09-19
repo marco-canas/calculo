@@ -1,0 +1,14 @@
+digraph {
+	A [label="Cálculo de áreas de triángulos
+ por tres métodos"]
+	B [label="El área como el semiproducto de 
+ una base y su altura respectiva"]
+	C [label="El área de un triángulo sin hallar
+  altura usando
+ La fórmila de Herón"]
+	D [label="El área de un triángulo usando
+  el concepto de área entre curvas"]
+	A -> B
+	A -> C
+	A -> D
+}
