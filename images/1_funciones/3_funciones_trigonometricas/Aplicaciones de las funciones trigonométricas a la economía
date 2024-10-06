@@ -1,5 +1,0 @@
-digraph {
-	A [label="Aplicaciones de las funciones trigonométricas a la economía"]
-	B [label=""]
-	A -> B
-}
