@@ -1,0 +1,1 @@
+# Primer recurso para la solución de ecuaciones con python
