@@ -47,16 +47,16 @@ class FuncionDiferenciaLadosEcuacion:
         plt.show()
 
 # Ejemplo de uso:
-f = lambda x: 2 * x - x**2  # Función ejemplo
-a = -4
-b = 4
+#f = lambda x: 2 * x - x**2  # Función ejemplo
+#a = -4
+#b = 4
 
 # Crear una instancia de la clase
-funcion = FuncionDiferenciaLadosEcuacion(f, a, b)
+#funcion = FuncionDiferenciaLadosEcuacion(f, a, b)
 
 # Crear la tabla y mostrarla
-tabla = funcion.crear_tabla_de_la_funcion()
-print(tabla)
+#tabla = funcion.crear_tabla_de_la_funcion()
+#print(tabla)
 
 # Crear el gráfico
-funcion.crear_grafico_funcion_diferencia()
+#funcion.crear_grafico_funcion_diferencia()
