@@ -1,0 +1,51 @@
+// Mapa Conceptual: Área Bajo la Curva
+digraph {
+	rankdir=TB size="8,5"
+	node [color=lightblue fontname=Arial shape=box style=filled]
+	A [label="Python y Jupyter para el Área Bajo la Curva"]
+	B [label="Introducción"]
+	C [label="Fundamentos Teóricos"]
+	D [label="Implementación en Python"]
+	E [label="Aplicaciones Agropecuarias"]
+	F [label="Actividad Interactiva"]
+	G [label="Conclusión y Cierre"]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	A -> F
+	A -> G
+	B1 [label="Importancia del cálculo integral
+ en ciencias agropecuarias" color=lightgreen]
+	B2 [label="Ventajas de usar Python
+ y Jupyter Notebooks" color=lightgreen]
+	B -> B1
+	B -> B2
+	C1 [label="Integral definida
+ y área bajo la curva" color=lightpink]
+	C2 [label="Aproximaciones numéricas
+ (Regla de Riemann y trapecio)" color=lightpink]
+	C -> C1
+	C -> C2
+	D1 [label="Uso de Scipy para cálculo
+ de integrales" color=yellow]
+	D2 [label="Visualización interactiva
+ con Matplotlib" color=yellow]
+	D -> D1
+	D -> D2
+	E1 [label="Estimación de áreas
+ de parcelas agrícolas" color=lightcoral]
+	E2 [label="Distribución de recursos
+ hídricos acumulados" color=lightcoral]
+	E -> E1
+	E -> E2
+	F1 [label="Ejercicio en equipos:
+ Implementación en Python" color=lightgray]
+	F -> F1
+	G1 [label="Resumen de conceptos
+ y herramientas" color=lightblue]
+	G2 [label="Material adicional en GitHub
+ y YouTube" color=lightblue]
+	G -> G1
+	G -> G2
+}
