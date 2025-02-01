@@ -1,0 +1,55 @@
+---
+title: "Unidad 1: Introducción al Cálculo Vectorial"
+author: "Facultad de Ciencias Agrarias, Ingeniería Agropecuaria"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# Introducción a la Unidad
+
+En esta unidad se aborda el estudio de los conceptos fundamentales del cálculo vectorial. Los temas tratados aquí sientan las bases para analizar y resolver problemas relacionados con sistemas de coordenadas, vectores y sus aplicaciones en la ingeniería agropecuaria.
+
+# Objetivos de Aprendizaje
+
+1. Comprender los sistemas de coordenadas en 2D y 3D.
+2. Realizar operaciones básicas con vectores y analizar sus propiedades.
+3. Aplicar los conceptos de vectores a problemas reales en la ingeniería agropecuaria.
+
+# Contenidos
+
+## Tema 1: Sistemas de Coordenadas
+- Definición y representación de puntos en 2D y 3D.
+- Conversión entre coordenadas cartesianas, cilíndricas y esferoidales.
+- Aplicaciones en topografía y diseño de terrenos agrícolas.
+
+## Tema 2: Vectores
+- Introducción a los vectores: definición y notación.
+- Operaciones básicas: suma, resta, producto escalar y producto vectorial.
+- Propiedades de los vectores.
+
+## Tema 3: Aplicaciones de los Vectores en Ingeniería Agropecuaria
+- Representación de fuerzas y direcciones.
+- Cálculo de trayectorias de sistemas de riego.
+- Modelado de movimientos de maquinarias en terrenos.
+
+# Metodología
+
+La metodología para esta unidad se enfocará en:
+
+1. **Videos previos:** Materiales explicativos disponibles en el canal de YouTube para introducción teórica.
+2. **Actividades Prácticas:** Resolución de ejercicios en Jupyter Notebooks utilizando Python.
+3. **Proyectos Colaborativos:** Análisis de problemas reales como el diseño de un sistema de riego eficiente.
+
+# Recursos
+
+- **Python:** Uso de bibliotecas como NumPy y Matplotlib.
+- **Cuadernos Jupyter:** Ejercicios interactivos para reforzar conceptos.
+- **Datos Reales:** Ejemplos con datos topográficos y agrícolas del Bajo Cauca.
+
+# Evaluación
+
+- **Ejercicios individuales:** Resolución de problemas básicos con vectores (30%).
+- **Mini-proyecto:** Diseño y simulación de un sistema de riego usando vectores (40%).
+- **Participación:** Discusión en clase y entrega de actividades previas (30%).
+
+---
