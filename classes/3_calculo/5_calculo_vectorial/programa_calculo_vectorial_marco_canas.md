@@ -4,13 +4,13 @@
 
 ### INFORMACIÓN GENERAL
 
-- **Unidad Académica:** Facultad de Ciencias Exactas y Naturales
-- **Programa Académico:** Licenciatura en Matemáticas / Ingeniería
+- **Unidad Académica:** Facultad de Ciencias Agrarias
+- **Programa Académico:** Licenciatura en Matemáticas / Ingeniería Agropecuaria
 - **Vigencia:** Semestre 2025-1
 - **Código del curso:** Cálculo Vectorial
 - **Tipo de curso:** Teórico-práctico
 - **Modalidad educativa:** Presencial con uso de Jupyter Notebooks y Python
-- **Número de créditos académicos:** 4
+- **Número de créditos académicos:** 3
 - **Horas semanales:** 4 horas de interacción + 8 horas de trabajo independiente
 
 ---
@@ -96,8 +96,8 @@ Se busca que los estudiantes:
 
 ## METODOLOGÍA
 
-- **Enfoque:** Aula invertida, STEAMS y Aprendizaje Basado en Problemas y Proyectos (ABP).
-- **Recursos:** Jupyter Notebooks, Python, bibliotecas de visualización 3D y cálculos simbólicos.
+- **Enfoque:** Aula invertida, STEAMS y Aprendizaje Basado en Problemas y Proyectos (ABPP).
+- **Recursos:** Jupyter Notebooks, Python, bibliotecas de visualización 2D y 3D y cálculos simbólicos.
 - **Estrategias:** Resolución de problemas, modelado computacional, simulaciones y análisis de datos.
 - **Interacción:** Trabajo en equipos, discusiones en foros, tutorías y retroalimentación iterativa.
 
@@ -116,6 +116,7 @@ Se busca que los estudiantes:
 
 ## BIBLIOGRAFÍA
 
+1. [Larson. Cálculo 2](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://lc.fie.umich.mx/~rochoa/Materias/CALCULO/CALCULO_2/LARSON.pdf)
 1. Stewart, J. (2020). *Cálculo de Varias Variables*. Cengage Learning.
 2. Strang, G. (2016). *Calculus*. MIT Press.
 3. Lang, S. (2012). *A First Course in Calculus*. Springer.
@@ -125,5 +126,5 @@ Se busca que los estudiantes:
 
 ## COMUNIDAD ACADÉMICA QUE PARTICIPÓ EN LA ELABORACIÓN
 
-- **Marco Julio** - Profesor, Facultad de Ciencias Exactas y Naturales, Universidad de Antioquia.
+- **Marco Julio Cañas Campillo** - Profesor, Dirección de Regionalización, Universidad de Antioquia.
 - **Equipo de Investigación en Didáctica de las Matemáticas**.
