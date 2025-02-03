@@ -1,0 +1,18 @@
+digraph {
+	A [label="Secciones Cónicas"]
+	B [label="Parábola"]
+	C [label=Elipse]
+	D [label="Hipérbola"]
+	E [label="Definición geométrica"]
+	F [label="Ecuaciones algebraicas"]
+	G [label="Óptica y Astronomía"]
+	H [label="Mecánica Celeste"]
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	A -> F
+	B -> G
+	C -> G
+	C -> H
+}
