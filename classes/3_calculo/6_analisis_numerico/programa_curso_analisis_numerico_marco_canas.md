@@ -6,7 +6,7 @@
 **Programa académico al que pertenece:** Licenciatura en Matemáticas  
 **Programa(s) académico(s) a los cuales se ofrece el curso:** Licenciatura en Matemáticas  
 **Vigencia:** 2025  
-**Código del curso:** [Código en MARES]  
+**Código del curso:** 2096632  
 **Nombre del curso:** Análisis Numérico  
 **Tipo de curso:** Teórico-Práctico  
 **Clase de curso:** Obligatorio  
@@ -60,7 +60,8 @@ La evaluación se basará en:
 - **Exposiciones y defensa de proyectos (30%)**
 - **Examen final (30%)**
 
-## BIBLIOGRAFÍA
+## BIBLIOGRAFÍA  
+- [CALCULO I DE UNA VARIABLE Ron Larson-Bruce Edwards. Mc Graw Hill. 9º Edición](https://www.academia.edu/42139251/CALCULO_I_DE_UNA_VARIABLE_Ron_Larson_Bruce_Edwards_Mc_Graw_Hill_9o_Edici%C3%B3n)
 - Burden, R. L., & Faires, J. D. (2011). *Numerical Analysis*. Cengage Learning.
 - Chapra, S. C., & Canale, R. P. (2015). *Numerical Methods for Engineers*. McGraw-Hill.
 - Suli, E., & Mayers, D. (2003). *An Introduction to Numerical Analysis*. Cambridge University Press.
