@@ -7,11 +7,11 @@
 - **Unidad Académica:** Facultad de Ciencias Agrarias
 - **Programa Académico:** Licenciatura en Matemáticas / Ingeniería Agropecuaria
 - **Vigencia:** Semestre 2025-1
-- **Código del curso:** Cálculo Vectorial
+- **Código del curso:** 5009344
 - **Tipo de curso:** Teórico-práctico
-- **Modalidad educativa:** Presencial con uso de Jupyter Notebooks y Python
+- **Modalidad educativa:** Presencial con uso de R-Studio, Lenguaje R y Video en YouTube
 - **Número de créditos académicos:** 3
-- **Horas semanales:** 4 horas de interacción + 8 horas de trabajo independiente
+- **Horas semanales:** 4 horas de interacción + 4 horas de trabajo independiente
 
 ---
 
@@ -25,9 +25,9 @@ Este curso contribuye a la formación matemática de los estudiantes al proporci
 
 Se busca que los estudiantes:
 1. Comprendan y apliquen conceptos de cálculo en el espacio tridimensional.
-2. Utilicen Python para modelar y visualizar funciones vectoriales y campos vectoriales.
-3. Desarrollen habilidades para resolver problemas mediante el Aprendizaje Basado en Problemas y Proyectos.
-4. Implementen métodos computacionales para cálculos de derivadas, integrales y análisis vectorial en coordenadas cartesianas, cilíndricas y esféricas.
+2. Utilicen R para modelar y visualizar funciones vectoriales y campos vectoriales.
+3. Desarrollen habilidades para resolver problemas mediante el Aprendizaje Basado en Problemas y Proyectos (ABPP).
+4. Implementen métodos computacionales para cálculos de derivadas, integrales y análisis vectorial en coordenadas cartesianas, polares, cilíndricas y esféricas.
 
 ---
 
@@ -36,7 +36,7 @@ Se busca que los estudiantes:
 ### **CAPÍTULO 10: Cónicas, ecuaciones paramétricas y coordenadas polares**
 - 10.1 Cónicas y cálculo
 - 10.2 Curvas planas y ecuaciones paramétricas
-- Proyecto: Cicloides
+- Proyecto: Cicloides o Problemas de Ingeniería Agropecuaria
 - 10.3 Ecuaciones paramétricas y cálculo
 - 10.4 Coordenadas polares y gráficas polares
 - Proyecto: Arte anamórfico
@@ -49,7 +49,7 @@ Se busca que los estudiantes:
 - 11.2 Coordenadas y vectores en el espacio
 - 11.3 Producto escalar y producto vectorial
 - 11.4 Rectas y planos en el espacio
-- Proyecto: Distancias en el espacio
+- Proyecto: Aplicación del concepto de distancia en ciencia de datos
 - 11.5 Superficies en el espacio
 - 11.6 Coordenadas cilíndricas y esféricas
 - Ejercicios de repaso y solución de problemas
@@ -97,7 +97,7 @@ Se busca que los estudiantes:
 ## METODOLOGÍA
 
 - **Enfoque:** Aula invertida, STEAMS y Aprendizaje Basado en Problemas y Proyectos (ABPP).
-- **Recursos:** Jupyter Notebooks, Python, bibliotecas de visualización 2D y 3D y cálculos simbólicos.
+- **Recursos:** Jupyter Notebooks, Lengiaje Python, latex y Markdown, bibliotecas de visualización 2D y 3D y cálculos simbólicos.
 - **Estrategias:** Resolución de problemas, modelado computacional, simulaciones y análisis de datos.
 - **Interacción:** Trabajo en equipos, discusiones en foros, tutorías y retroalimentación iterativa.
 
@@ -106,9 +106,9 @@ Se busca que los estudiantes:
 ## EVALUACIÓN
 
 | Componente | Porcentaje |
-|------------|-----------|
+|------------|------------|
 | Tareas y ejercicios prácticos en Python | 20% |
-| Proyectos de modelado en Jupyter Notebooks | 30% |
+| Proyectos de modelado en Jupyter Notebooks, video y archivo .rmd | 30% |
 | Exámenes teórico-prácticos | 30% |
 | Participación en actividades y foros | 20% |
 
