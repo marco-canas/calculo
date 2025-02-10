@@ -106,9 +106,9 @@ Se busca que los estudiantes:
 ## EVALUACIÓN
 
 | Componente | Porcentaje |
-|------------|-----------|
+|------------|------------|
 | Tareas y ejercicios prácticos en Python | 20% |
-| Proyectos de modelado en Jupyter Notebooks | 30% |
+| Proyectos de modelado en Jupyter Notebooks, video y archivo .rmd | 30% |
 | Exámenes teórico-prácticos | 30% |
 | Participación en actividades y foros | 20% |
 
