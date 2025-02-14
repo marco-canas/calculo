@@ -110,7 +110,47 @@ Se busca que los estudiantes:
 | Tareas y ejercicios prácticos en Python | 20% |
 | Proyectos de modelado en Jupyter Notebooks, video y archivo .rmd | 30% |
 | Exámenes teórico-prácticos | 30% |
-| Participación en actividades y foros | 20% |
+| Participación en actividades y foros | 20% |  
+
+# Evaluación - Cálculo Vectorial  
+
+**Profesor(a):** MARCO JULIO CAÑAS CAMPILLO  
+**Semestre:** 20251  
+**Materia:** [5009344] - CÁLCULO VECTORIAL  
+**Tipo de Evaluación:** CUANTITATIVO  
+**Grupo:** 35  
+
+---
+
+### Evaluaciones Definidas  
+
+| #  | %  | Descripción                                  | Eval? | Conf? |
+|----|----|----------------------------------------------|-------|-------|
+| 1  | 2  | Tarea 1 Instalación de R Studio            | NO    | NO    |
+| 2  | 2  | Tarea 2                                     | NO    | NO    |
+| 3  | 2  | Tarea 3                                     | NO    | NO    |
+| 4  | 2  | Tarea 4                                     | NO    | NO    |
+| 5  | 2  | Tarea 5                                     | NO    | NO    |
+| 6  | 2  | Tarea 6                                     | NO    | NO    |
+| 7  | 2  | Tarea 7                                     | NO    | NO    |
+| 8  | 2  | Tarea 8                                     | NO    | NO    |
+| 9  | 2  | Tarea 9                                     | NO    | NO    |
+| 10 | 2  | Tarea 10                                    | NO    | NO    |
+| 11 | 10 | Parcial 1                                   | NO    | NO    |
+| 12 | 10 | Parcial 2                                   | NO    | NO    |
+| 13 | 10 | Parcial 3                                   | NO    | NO    |
+| 14 | 10 | Proyecto de aplicación 1                   | NO    | NO    |
+| 15 | 10 | Proyecto de aplicación 2                   | NO    | NO    |
+| 16 | 10 | Proyecto de aplicación 3                   | NO    | NO    |
+| 17 | 10 | Asistencia y exposiciones en clase        | NO    | NO    |
+| 18 | 10 | Desempeño en clase con R Studio           | NO    | NO    |
+
+**Número de Evaluaciones:** 18  
+
+---
+
+**Nota:** El código de confirmación llegará al correo personal **aldevaran@gmail.com**  
+
 
 ---
 
