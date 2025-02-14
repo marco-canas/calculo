@@ -65,6 +65,7 @@ La evaluación se basará en:
 - Burden, R. L., & Faires, J. D. (2011). *Numerical Analysis*. Cengage Learning.
 - Chapra, S. C., & Canale, R. P. (2015). *Numerical Methods for Engineers*. McGraw-Hill.
 - Suli, E., & Mayers, D. (2003). *An Introduction to Numerical Analysis*. Cambridge University Press.
+- [Desarrollo del pensamiento variacional](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://repositorio.udes.edu.co/server/api/core/bitstreams/c1412f81-0ada-4dda-bec0-70e9657396ce/content)
 
 ## COMUNIDAD ACADÉMICA QUE PARTICIPÓ EN LA ELABORACIÓN DEL MICROCURRÍCULO
 - **Marco Julio**  
