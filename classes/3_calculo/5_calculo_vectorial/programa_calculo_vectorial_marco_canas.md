@@ -168,3 +168,23 @@ Se busca que los estudiantes:
 
 - **Marco Julio Cañas Campillo** - Profesor, Dirección de Regionalización, Universidad de Antioquia.
 - **Equipo de Investigación en Didáctica de las Matemáticas**.
+
+
+# Contacto con el Coordinador del programa de Ingeniería Agropecuaria para regiones 
+
+## Horario de la asignatura Cálculo Vectorial  
+
+Días:  
+Lunes - Hora: 7:00 a 12:00M  
+Fechas:  
+Febrero: 10-17-24                                          
+ Marzo: 3-10-17-31                                                  
+Abril:7-21-28                                                   
+Mayo:5-12-19  
+
+Agradezco su apoyo, y si presenta alguna dificultad puede contactarme.  
+
+Cordialmente,  
+Juan Felipe Rivera Hernández  
+Contacto: 3106314300    
+E-mail: juanf.rivera@udea.edu.co
