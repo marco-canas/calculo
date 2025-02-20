@@ -1,0 +1,21 @@
+digraph {
+	A [label="La integral indefinida"]
+	B [label="El movimiento rectilíneo"]
+	C [label="Caída libre"]
+	D [label="Las cuatro fórmulas de integración indefinida para la aplicación de caída libre"]
+	E [label=""]
+	F [label=""]
+	G [label=""]
+	H [label=""]
+	I [label=""]
+	J [label=""]
+	A -> B
+	B -> C
+	C -> D
+	D -> J
+	E -> F
+	F -> G
+	G -> H
+	H -> I
+	I -> J
+}

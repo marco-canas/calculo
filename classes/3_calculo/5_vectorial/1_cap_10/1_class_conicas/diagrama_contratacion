@@ -1,0 +1,26 @@
+digraph Contratacion_Personal {
+	rankdir=TB
+	Inicio [shape=ellipse]
+	"Identificación del perfil requerido"
+	"Apertura de convocatoria"
+	"Recepción de hojas de vida"
+	"Evaluación de hojas de vida"
+	Entrevista
+	"Selección del candidato"
+	"Verificación de referencias laborales"
+	"Confirmación de disponibilidad"
+	"Elaboración del contrato"
+	"Afiliaciones a seguridad social"
+	Fin [shape=ellipse]
+	Inicio -> "Identificación del perfil requerido"
+	"Identificación del perfil requerido" -> "Apertura de convocatoria"
+	"Apertura de convocatoria" -> "Recepción de hojas de vida"
+	"Recepción de hojas de vida" -> "Evaluación de hojas de vida"
+	"Evaluación de hojas de vida" -> Entrevista
+	Entrevista -> "Selección del candidato"
+	"Selección del candidato" -> "Verificación de referencias laborales"
+	"Verificación de referencias laborales" -> "Confirmación de disponibilidad"
+	"Confirmación de disponibilidad" -> "Elaboración del contrato"
+	"Elaboración del contrato" -> "Afiliaciones a seguridad social"
+	"Afiliaciones a seguridad social" -> Fin
+}
