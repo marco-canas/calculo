@@ -96,5 +96,11 @@ Uso de ecuaciones polares para describir trayectorias de partículas en suelos o
 | Aprobado en Acta del | Aprobado en Acta del | Aprobado en Acta del | Aprobado en Acta del | Aprobado en Acta del | Aprobado en Acta del | Aprobado en Acta del | Aprobado en Acta del | Aprobado en Acta del |
 |  |  |  |  |  |  |  |  |  |
 |  | Nombre Completo Secretario del Consejo de la Unidad Académica |  | Firma | Firma | Firma |  | Cargo |  |
-|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  
+
+
+# Tareas  con fechas límite de entrega 
+
+* Tarea 2: Graficar con lenguaje R el cono de apolonio. 
+* Tarea 3: Video de la definición de parábola. 
 
